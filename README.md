@@ -1,4 +1,4 @@
-# Proyectofinal_Hito3_DesarrolloBackend
+# Proyecto Final – Hito 3 Backend
 
 API REST desarrollada en Node.js, Express y PostgreSQL para gestionar usuarios, autenticación y publicaciones.
 
